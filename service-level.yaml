@@ -1,0 +1,6 @@
+services:
+  - name: yw-thrift
+    owner: honey-badger
+    language: ruby
+    nonServiceType: library
+    description: "Fork of the 0.9.0 thrift gem"
